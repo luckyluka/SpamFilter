@@ -1,0 +1,136 @@
+HK Email marking !<STYLE type="text/css">
+<!--
+P{
+  font-size : 12px;
+  color : navy;
+}
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<P>(Hello,This is Chinese Traditional)<BR>
+</P>
+<DIV style="width : 376px;height : 12px;top : 195px;left : 238px;
+  position : absolute;
+  z-index : 3;
+  visibility : visible;
+  background-color : lime;
+" id="Layer3"></DIV>
+<DIV style="width : 73px;height : 14px;top : 172px;left : 238px;
+  position : absolute;
+  z-index : 2;
+  visibility : visible;
+  background-color : olive;
+" id="Layer2"></DIV>
+<DIV style="width : 39px;height : 13px;top : 149px;left : 239px;
+  position : absolute;
+  z-index : 1;
+  visibility : visible;
+  background-color : silver;
+" id="Layer1"></DIV>
+<P>ë×Óà]Œþ ¡ª¡ª21ÊÀŒo×îÓÐÐ§µÄÐû÷·œÊœ£º<BR>
+&nbsp; &nbsp;ÄúÏë×®µØ10ÈfÈËÍ¬Ò»r¿ÌÖªµÀÄúµÄVžæá£¿ÄúÏë·œ±ã¿ìœÝµÄÐû÷ÄúµÄÆóIá£¿
+<BR>
+&nbsp; &nbsp;ÄúÏëÔÚÉÌIž ÖÐ²œ²œ×ÏÈCá£¿
+ÄúÏëÒ»ŽÎíÓÐ×|ÔÚÉÌI¿Íôá£¿<BR>
+&nbsp; &nbsp;ÔœíÔœ¶àµÄÕ{²é±íÃ÷ £¬ŸWÂ·Ö±äN¢þ³É ÎŽí IäN·œÊœµÄÖ÷Á÷£¬¶øE-mail¢ÊÇŸWÉÏ IäN×î³£ÓÃÒ²ÊÇ×îÓÃµÄ¹€Ÿß¡£<BR>
+ÆäÌØüc£º¹ úV£¬rÐ§žß£¬ržñµÍ¡£þeMarketer¹ÀÓ£¬ÃÀøÓÐ61%µÄÖÐµÈÒÄ£¹«ËŸœ³£ß\ÓÃë×Óà]ŒþßMÐÐ IäN»îÓ¡£<BR>
+<BR>
+²¿·ÖVžæÃœówÆœŸù»ØªÂÊ±ÈÝ^ £šAverage Response
+Rate Ranges£© <BR>
+¡¡ 0.5-1% ÆÕÍšºá·ù¹ãžæ(banner ads) <BR>
+<BR>
+¡¡ 1-2% ÆÕÍšÐÅŒþ(direct mail) <BR>
+<BR>
+¡¡ 10-15% ë×Óà]Œþ(Email) <BR>
+<BR>
+<BR>
+<B><FONT size="+1" color="#ff0080">Ò» [à]Œþ³öÊÛ] </FONT></B><BR>
+<BR>
+ÙÙIÈ«Çòà]ŒþµØÖ·£º Ã¿1000Èf/500HK £šÙÙIÈ«²¿9000Èf/3600HK£©
+<BR>
+ÙÙIÏãžÛà]ŒþµØÖ·£º Ã¿10Èf/400HK &nbsp; £šÙÙIÏãžÛÈ«²¿325Èf/5500HK£©
+&nbsp;<A href="http://www.jjyx.com/serve/hk1.txt" target="_blank" style="font-size : 21px;"><B><FONT size="+1" color="#ff0000">free download</FONT></B></A><BR>
+ÙÙIÅ_³à]ŒþµØÖ·£º Ã¿10Èf/400HK &nbsp; £šÙÙIÅ_³È«²¿201Èf/4500HK£©
+&nbsp;<A href="http://www.jjyx.com/serve/wd/taiwan.txt" target="_blank" style="font-size : 21px;"><B><FONT size="+1" color="#ff0000">free download</FONT></B></A><BR>
+<BR>
+<B><FONT size="+1" color="#ff0080" style="color : #0080ff;"> &nbsp; &nbsp;[à]Œþ°lËÍ]</FONT></B><BR>
+Vžæà]ŒþŽúÀí°lËÍ£º Ã¿10Èf/500HK 20ÈfÆð°l
+£šÊŽ_ÂÊ90%ÒÔÉÏ£©<BR>
+°üÖÜÈº°l£º &nbsp; &nbsp; &nbsp; &nbsp; Ò»ÖÜ60Èf/2500HK
+<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;Ò»ÖÜ100Èf/4000HK
+£š±£×CŸWÕŸÈÕÔLÁ¿ÌáÉý2000ÒÔÉÏ£©<BR>
+°üÔÂÈº°l£º &nbsp; &nbsp; &nbsp; &nbsp; Ò»ÔÂ500Èf/9500HK
+£š±£×CŸWÕŸÈÕÔLÁ¿ÌáÉý5000ÒÔÉÏ£© <BR>
+<BR>
+<B><FONT size="+1" color="#ff8040" style="color : #ff8040;"> &nbsp; &nbsp;[à]ŒþÜów]</FONT></B><BR>
+<SPAN lang="EN-US" style="FONT-SIZE: 9pt; COLOR: #0000c4"><SPAN style="COLOR: navy; mso-fareast-font-family: PMingLiU; mso-fareast-language: ZH-TW">70</SPAN><SPAN lang="ZH-TW" style="COLOR: navy; FONT-FAMILY: PMingLiU; mso-fareast-language: ZH-TW; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">ðNÌ×Èº°l£¬ËÑË÷£¬ŸWÂ·°lÑÜów</SPAN><SPAN style="COLOR: navy; mso-fareast-font-family: PMingLiU; mso-fareast-language: ZH-TW">/2200</SPAN><SPAN lang="ZH-TW" style="COLOR: navy; FONT-FAMILY: PMingLiU; mso-fareast-language: ZH-TW; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">HK</SPAN></SPAN><SPAN lang="EN-US" style="FONT-SIZE: 9pt; mso-fareast-font-family: PMingLiU; mso-fareast-language: ZH-TW"> </SPAN><SPAN lang="ZH-TW" style="FONT-SIZE: 9pt; FONT-FAMILY: PMingLiU; mso-fareast-language: ZH-TW; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'"></SPAN><SPAN lang="ZH-TW" style="FONT-SIZE: 9pt"></SPAN><SPAN lang="EN-US" style="FONT-SIZE: 9pt"></SPAN><SPAN lang="EN-US" style="FONT-SIZE: 9pt; COLOR: #0000bf"><SPAN lang="ZH-TW" style="COLOR: navy; FONT-FAMILY: PMingLiU; mso-fareast-language: ZH-TW; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'"></SPAN><SPAN style="COLOR: navy; mso-fareast-font-family: PMingLiU; mso-fareast-language: ZH-TW"></SPAN><SPAN lang="ZH-TW" style="COLOR: navy; FONT-FAMILY: PMingLiU; mso-fareast-language: ZH-TW; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">×Äã×ÔŒºíÓÐÒ»Ì×ÍêÉÆµÄë×Óà]ŒþÈº°l£¬ËÑË÷£¬ŸWÂ·°lÑÏµœy</SPAN></SPAN><BR>
+ÓÐÒâÕßÇëÀŽÐÅÁªÏµ£º<A href="mailto:yhzx599@vip.sina.com">yhzx599@vip.sina.com</A></P>
+
+
+<P><BR>
+<B><FONT size="+1" color="#ff0000">¶þ ËÑË÷ÒýÇæÔ]ÔµÇê £š³¬Öµ·þÕ£¬ÌØ»Ýr2200
+HK£©</FONT></B><BR>
+ãyºÓÖ®ÐÇÍÄúµÇêÈ«Çò6000Ó¢ÎÄËÑË÷ÒýÇæ£¬ßM200ÖÐÎÄËÑË÷ÒýÇæ¡£×ÄãµÄŸWÕŸÏí×uÈ«Çò¡£<BR>
+<BR>
+<BR>
+<B>e-mailµØÖ·ÔÚž÷µØ^µÄ·ÖÑµÁ¿</B><BR>
+<BR>
+ÏãžÛ¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª32525642
+&nbsp;<A href="http://www.jjyx.com/serve/hk1.txt" target="_blank" style="font-size : 21px;"><B><FONT size="+1" color="#ff0000">free download the sample</FONT></B></A><BR>
+Å_³¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª20012356
+&nbsp;<A href="http://www.jjyx.com/serve/wd/taiwan.txt" target="_blank" style="font-size : 21px;"><B><FONT size="+1" color="#ff0000">free download the sample</FONT></B></A><BR>
+È«Çò¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª9000Èf<BR>
+<BR>
+<BR>
+<BR>
+&nbsp; ãyºÓÖ®ÐÇíÓÐøÈÍâÉÏ|ÓÐÐ§µÄemailÎ»Ö·ÙYÁÏì£¬¿ÉÒÔžùþ¿ÍôµÄÐèÒª£¬ÔÚÖž¶šµÄµØ·œ£¬^Óò,ÐÐIîeµÈÙÐÔÍ¶·Åë×Óà]ŒþVžæ¡£<BR>
+Èç£ºÄãÏë×Ä³µØ10ÈfÈËÒ»ÌìÖ®î¶ŒÖªµÀÄãµÄ®aÆ·£¬ÙYÓ¡£ÄÇ÷áVžæà]ŒþÍ¶·ÅŸÍÊÇÄã×îºÃµÄœâQ·œ°ž£¬ËüµÄržñÊÇËùÓÐ÷ÃºržñÖÐ×îµÍ£¬<BR>
+µ«ÓÖÊÇ×îÓÐÐ§µÄ¡£CÓöÃ¿rÃ¿¿Ì¶ŒµÈŽýÖøÄã£¬Ò²ÔSÄãÕýÊÇÓÃÁËß@ÓµÄ÷ÃºÊÖ¶Î£¬¶øŽò¿åÁËËùÓÐµÄž ŠÊÖ¡£Ús¿ìÐÐÓ°É£¬×ÄãµÄÆóI£¬<BR>
+¹«ËŸÁ¢ŒŽÕÆÎÕÉÌI÷ÃœµÄÃüÃ}------Vžæe-mail¡£ß@ÊÇÆÕÍš÷äNœ IËù²»ÄÜ±ÈMµÄ¡£<BR>
+<BR>
+<BR>
+<FONT size="+1"><B>ÂÀMŒ°ž¶¿î·œÊœ£º</B></FONT><BR>
+±Ÿ¹«ËŸÄÊÂŸWÂ·Vžæ¶àÄê£¬Ðû÷ÁŠ¶ÈÎ»ŸÓÖÐøµÚËÄŽóŸWÂ·VžæÉÌÖ®Ò»£¬<BR>
+ÎÒÓÐ£éTµÄŒŒÐgÈËTºÍžßËÙ£IµÄ·þÕÏµœyÄÊÂŽËí¹€×÷£¬±Ø¢ ÄúµÄÆóIÌá¹©×îÑžœÝ¡¢×îÓÐÐ§¡¢×îMÒâµÄ·þÕ¡£<BR>
+<BR>
+<BR>
+<FONT size="+1"><B>ÐèÇó¿ÍôÕücôß@ÑY£šÂÀMà]Ïä)<BR>
+<A href="mailto:yhzx599@vip.sina.com">yhzx599@vip.sina.com</A> £šíÐÅÕ×¢Ã÷ÄúÐèÒªµÄ·þÕÅcÂÀM·œÊœ£¬ÎÒþ¿ì»ØÍÄú¡££©</B></FONT><BR>
+<BR>
+<B><FONT size="+1">žÛ¡¢°Ä¡¢Å_µØ^ž¶¿î·œÊœ£šÈÎºÎøŒÒŸù¿Éµœ®µØãyÐÐëR£¬2-3Ììµœ€£©<BR>
+Ðèµœ®µØãyÐÐÞkÀíëR <BR>
+English:<BR>
+<BR>
+BENIFICIARY CUSTOMER: &nbsp;wangjingjing<BR>
+A/C BANK: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp;BANK OF CHINA MIANYANG BRANCH<BR>
+A/C NO: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;8209 9802 0003 158<BR>
+BENIFICIARY'S TEL NO : 0816-6623109<BR>
+<BR>
+ÖÐÎÄŠÕÕ£º<BR>
+ÊÕ ¿î ÈË£º ÍõŸ§Ÿ§<BR>
+ÊÕ¿îãyÐÐ£º ÖÐøãyÐÐŸdê·ÖÐÐ<BR>
+€ &nbsp; &nbsp;Ì£º 8209 9802 0003 158<BR>
+ÊÕ¿îÈËëÔ£º0816-6623109<BR>
+<BR>
+2-3Ììµœ€£¬¿îµœááÎÒ¢Á¢ŒŽ ÄúÌá¹©×îMÒâ·þÕ¡£<BR>
+<BR>
+gÓ­íÐÅíëÖJÔÂÀM ëÔ£º0086-0816-6623109
+</FONT><BR>
+<BR>
+<FONT size="+1">ãyºÓÖ®ÐÇŸWÂ·ÙYÓÓÐÏÞ¹«ËŸ<BR>
+¹«ËŸµØÖ·£ºÖÐøŽóêŸdê<BR>
+EMAIL£º<A href="mailto:yhzx599@vip.sina.com">yhzx599@vip.sina.com</A> <BR>
+ÖJÔëÔ£º0086-0816-6623109 </FONT><BR>
+<BR>
+-----------------------------------------------------------------------------------------------------------------------------------<BR>
+¹«ËŸ·þÕ£°ž£ºŸWÂ·ÍÆV ŸWÕŸœšÔO ŸWÂ·Ãû
+ŸWíŒÄŽæ ¹ŠÄÜ×µÃû·Q¿Õég Üów°lÕ¹µÈ£¬råXµÍÁ®£¬·þÕÙ|gÓ­íÐÅíëÂÀM<BR>
+-----------------------------------------------------------------------------------------------------------------------------------</B></P>
+</BODY>
+
+
